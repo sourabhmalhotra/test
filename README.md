@@ -1,2 +1,2 @@
 # test
-this to get the overall idea of git
+this is to get the overall idea of git
